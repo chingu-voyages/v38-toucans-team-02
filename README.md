@@ -50,15 +50,27 @@ Introduce your projects by taking a screenshot or a gif. Try to tell visitors a 
 
 <!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
 
-- [HTML5]
-- [CSS3]
-- [JAVASCRIPT]
+- HTML5
+- CSS3
+- JAVASCRIPT
 
 ## Features
 
 <!-- List the features of your application or follow the template. Don't share the figma file here :) -->
 
-- 
+- Search button
+- Show default city when app is opened
+- Show today’s weather and the next five days
+- Display the current date & location of the weather
+- Convert temperature from Celcius to Fahrenheit
+- Display the corresponding image for each type of weather
+- Show the minimum and maximum degree for each day
+- Show wind direction and status
+- Show humidity percentage
+- Have a visibility indicator
+- Show an air pressure number
+
+
 
 ## How To Use
 
