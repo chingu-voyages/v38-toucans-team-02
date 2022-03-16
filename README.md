@@ -76,26 +76,23 @@ Introduce your projects by taking a screenshot or a gif. Try to tell visitors a 
 
 <!-- Example: -->
 
-To clone and run this application, you'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com)) installed on your computer. From your command line:
+To clone and run this application, you'll need [Git](https://git-scm.com)installed on your computer. From your command line:
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/your-user-name/your-project-name
+$ git clone https://github.com/chingu-voyages/v38-toucans-team-02.git
 
-# Install dependencies
-$ npm install
-
-# Run the app
-$ npm start
 ```
 
 ## Acknowledgements
 
 <!-- This section should list any articles or add-ons/plugins that helps you to complete the project. This is optional but it will help you in the future. For example: -->
 
-- [Steps to replicate a design with only HTML and CSS](https://devchallenges-blogs.web.app/how-to-replicate-design/)
-- [Node.js](https://nodejs.org/)
-- [Marked - a markdown parser](https://github.com/chjj/marked)
+- [Chingu](https://chingu.io/)
+- [Samuel Igwe](https://github.com/frugalcodes)
+- [Debbie Otuagomah](https://github.com/thatgirldorian)
+- [Williamson Mosope](https://github.com/Shorpee)
+
 
 ## Contact
 
