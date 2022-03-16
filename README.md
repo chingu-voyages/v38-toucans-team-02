@@ -94,8 +94,8 @@ $ git clone https://github.com/chingu-voyages/v38-toucans-team-02.git
 - [Williamson Mosope](https://github.com/Shorpee)
 
 
-## Contact
+## Contact Chingu
 
-- Website [your-website.com](https://{your-web-site-link})
-- GitHub [@your-username](https://{github.com/your-usermame})
-- Twitter [@your-twitter](https://{twitter.com/your-username})
+- [Chingu](https://chingu.io/)
+- [GitHub](https://github.com/chingu-voyages)
+- [Twitter](https://twitter.com/ChinguCollabs)
