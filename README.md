@@ -3,7 +3,7 @@
 <h1 align="center">{Whether App}</h1>
 
 <div align="center">
-   Voyage Project done by V38-TOUCANS-TEAM-02  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
+   Voyage Project done by V38-TOUCANS-TEAM-02
 </div>
 
 <div align="center">
