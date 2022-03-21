@@ -1,14 +1,101 @@
-# voyage-tasks
+<!-- Please update value in the {}  -->
 
-Your project's `readme` is as important to success as your code. For 
-this reason you should put as much care into its creation and maintenance
-as you would any other component of the application.
+<h1 align="center">Whether App</h1>
 
-If you are unsure of what should go into the `readme` let this article,
-written by an experienced Chingu, be your starting point - 
-[Keys to a well written README](https://tinyurl.com/yk3wubft).
+<div align="center">
+   Voyage Project done by V38-TOUCANS-TEAM-02
+</div>
 
-And before we go there's "one more thing"! Once you decide what to include
-in your `readme` feel free to replace the text we've provided here.
+<div align="center">
+  <h3>
+    <a href="https://chingu.io/">
+      Chingu
+    </a>
+    <span> | </span>
+    <a href="https://{your-url-to-the-solution}">
+      Deployment Link
+    </a>
+    <span> | </span>
+    <a href="https://devchallenges.io/challenges/mM1UIenRhK808W8qmLWv">
+      Project Idea Source
+    </a>
+  </h3>
+</div>
 
-> Own it & Make it your Own!
+<!-- TABLE OF CONTENTS -->
+
+## Table of Contents
+
+- [Overview](#overview)
+  - [Built With](#built-with)
+- [Features](#features)
+- [How to use](#how-to-use)
+- [Contact](#contact)
+- [Acknowledgements](#acknowledgements)
+
+<!-- OVERVIEW -->
+
+## Overview
+
+![screenshot](https://user-images.githubusercontent.com/16707738/92399059-5716eb00-f132-11ea-8b14-bcacdc8ec97b.png)
+
+Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
+
+- Where can I see your demo?
+- What was your experience?
+- What have you learned/improved?
+- Your wisdom? :)
+
+### Built With
+
+<!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
+
+- HTML5
+- CSS3
+- JAVASCRIPT
+
+## Features
+
+<!-- List the features of your application or follow the template. Don't share the figma file here :) -->
+
+- Search button
+- Show default city when app is opened
+- Show today’s weather and the next five days
+- Display the current date & location of the weather
+- Convert temperature from Celcius to Fahrenheit
+- Display the corresponding image for each type of weather
+- Show the minimum and maximum degree for each day
+- Show wind direction and status
+- Show humidity percentage
+- Have a visibility indicator
+- Show an air pressure number
+
+
+
+## How To Use
+
+<!-- Example: -->
+
+To clone and run this application, you'll need [Git](https://git-scm.com)installed on your computer. From your command line:
+
+```bash
+# Clone this repository
+$ git clone https://github.com/chingu-voyages/v38-toucans-team-02.git
+
+```
+
+## Acknowledgements
+
+<!-- This section should list any articles or add-ons/plugins that helps you to complete the project. This is optional but it will help you in the future. For example: -->
+
+- [Chingu](https://chingu.io/)
+- [Samuel Igwe](https://github.com/frugalcodes)
+- [Debbie Otuagomah](https://github.com/thatgirldorian)
+- [Williamson Mosope](https://github.com/Shorpee)
+
+
+## Contact Chingu
+
+- [Chingu](https://chingu.io/)
+- [GitHub](https://github.com/chingu-voyages)
+- [Twitter](https://twitter.com/ChinguCollabs)
