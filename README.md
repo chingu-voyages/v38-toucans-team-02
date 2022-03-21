@@ -1,6 +1,6 @@
 <!-- Please update value in the {}  -->
 
-<h1 align="center">Whether App</h1>
+<h1 align="center">Weather App</h1>
 
 <div align="center">
    Voyage Project done by V38-TOUCANS-TEAM-02
