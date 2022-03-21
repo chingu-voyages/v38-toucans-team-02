@@ -12,7 +12,7 @@
       Chingu
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
+    <a href="https://practical-goldstine-55667f.netlify.app/">
       Deployment Link
     </a>
     <span> | </span>
