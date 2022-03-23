@@ -55,3 +55,31 @@ body {
 .right-container{
     width: 70%;
 }
+
+/* Current weather styles */
+.current-weather {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.weather-box {
+    width: 120px;
+    height: 177px;
+    background-color: var(--bg-color-secondary);
+    margin-right: 20px;
+    margin-top: 120px;
+}
+
+.date {
+    text-align: center;
+    padding-top: 12px;
+}
+
+.weather-img {
+    width: 56.44px;
+    height: 62px;
+    position: relative;
+    left: 30px;
+    top: 15px;
+}
