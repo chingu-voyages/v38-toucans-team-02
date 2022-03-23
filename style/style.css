@@ -55,3 +55,42 @@ body {
 .right-container{
     width: 70%;
 }
+
+.wrapper {
+    width: 60%;
+    margin: auto;
+}
+
+.hightlight-boxes {
+    display: grid;
+    grid-template-columns: repeat(2, 50%);
+    grid-gap: 30px;
+    grid-auto-rows: minmax(100px, auto);
+
+    
+}
+
+.box-show {
+    box-sizing: border-box;
+    background-color: #1E213A;
+    text-align: center;
+}
+
+.box-show h2 {
+    font-weight: 100;
+}
+
+.bold-figure {
+    font-weight: 700;
+    font-size: 40px;
+}
+
+.box-show h5 {
+    font-weight: 100;
+    font-size: 10px;
+    margin: 10px;
+}
+
+.wrapper h3 {
+    margin: 15px 0;
+}
