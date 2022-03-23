@@ -54,35 +54,50 @@ body {
 
 .right-container{
     width: 70%;
+    /* margin: 0 auto; */
+    padding-top: 3%;
+    padding-left: 10%;
+    padding-right: 10%;
 }
 
 /* Current weather styles */
 .current-weather {
     display: flex;
     flex-direction: row;
-    justify-content: center;
+    /* width: 70%; */
+    justify-content: space-between;
+    gap: 20px;
+    
 }
 
 .weather-box {
-    width: 120px;
-    height: 177px;
+    width: 1fr;
+    /* height: 177px; */
     background-color: var(--bg-color-secondary);
-    margin-right: 20px;
+    padding: 15px;
+    
+    /* margin-right: 20px;
     margin-left: 20px;
-    margin-top: 40px;
+    margin-top: 40px; */
 }
 
 .date {
     text-align: center;
-    padding-top: 12px;
+    /* padding-top: 12px; */
+    margin-bottom: 10px;
+}
+
+.icon-container {
+    width: 56px;
+    height: 56px;
+    margin: 0 auto;
+    margin-bottom: 20px;
 }
 
 .weather-img {
-    width: 56.44px;
-    height: 62px;
-    position: relative;
-    left: 30px;
-    top: 15px;
+    width: 100%;
+    /* left: 30px;
+    top: 15px; */
 }
 
 .degree p {
@@ -90,7 +105,7 @@ body {
     word-wrap: break-word;
     padding-right: 10px;
     padding-left: 10px;
-    padding-top: 40px;
+    /* padding-top: 40px; */
     margin-left: 5px;
     
 }
@@ -102,9 +117,14 @@ body {
 
 /* Degree converter buttons */
 .degree-buttons {
-    text-align: right;
-    padding-top: 40px;
-    padding-right: 160px;
+    display: flex;
+    justify-content: flex-end;
+    /* align-items: right; */
+    /* float: right; */
+    text-align: center;
+    margin-bottom: 40px;
+    /* padding-top: 40px;
+    padding-right: 160px; */
 }
 
 .celcius-btn {
@@ -120,7 +140,7 @@ body {
 
 .fahr-btn {
     border-radius: 50%;
-    padding: 12px;
+    padding: 10px;
     border: 1px solid var(--bg-color-secondary);
     background-color: var(--bg-color-secondary);
     font-weight: bold;
