@@ -54,6 +54,7 @@ body {
 
 .right-container{
     width: 70%;
+<<<<<<< HEAD
 }
 
 /* <!-- Highlights section --> */
@@ -95,4 +96,100 @@ body {
 
 .wrapper h3 {
     margin: 15px 0;
+=======
+    /* margin: 0 auto; */
+    padding-top: 3%;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+/* Current weather styles */
+.current-weather {
+    display: flex;
+    flex-direction: row;
+    /* width: 70%; */
+    justify-content: space-between;
+    gap: 20px;
+    
+}
+
+.weather-box {
+    width: 1fr;
+    /* height: 177px; */
+    background-color: var(--bg-color-secondary);
+    padding: 15px;
+    
+    /* margin-right: 20px;
+    margin-left: 20px;
+    margin-top: 40px; */
+}
+
+.date {
+    text-align: center;
+    /* padding-top: 12px; */
+    margin-bottom: 10px;
+}
+
+.icon-container {
+    width: 56px;
+    height: 56px;
+    margin: 0 auto;
+    margin-bottom: 20px;
+}
+
+.weather-img {
+    width: 100%;
+    /* left: 30px;
+    top: 15px; */
+}
+
+.degree p {
+    display: inline-block;
+    word-wrap: break-word;
+    padding-right: 10px;
+    padding-left: 10px;
+    /* padding-top: 40px; */
+    margin-left: 5px;
+    
+}
+
+.degree span {
+    color: gray;
+
+}
+
+/* Degree converter buttons */
+.degree-buttons {
+    display: flex;
+    justify-content: flex-end;
+    /* align-items: right; */
+    /* float: right; */
+    text-align: center;
+    margin-bottom: 40px;
+    /* padding-top: 40px;
+    padding-right: 160px; */
+}
+
+.celcius-btn {
+    border-radius: 50%;
+    padding: 10px;
+    border: 1px solid white;
+    font-weight: bold;
+    margin-right: 10px;
+    width: 40px;
+    height: 40px;
+    cursor:pointer;
+}
+
+.fahr-btn {
+    border-radius: 50%;
+    padding: 10px;
+    border: 1px solid var(--bg-color-secondary);
+    background-color: var(--bg-color-secondary);
+    font-weight: bold;
+    color: white;
+    width: 40px;
+    height: 40px;
+    cursor: pointer;
+>>>>>>> debbie
 }
