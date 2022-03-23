@@ -33,6 +33,7 @@ style variables
     --btn-inactive: #585676;
     --btn-active: #E7E7EB;
     --main-font-color: #E7E7EB; 
+    --btn-primary: #6E707A;
 }
 
 body {
@@ -48,9 +49,49 @@ body {
 }
 
 .left-container {
-    background-color: var(--bg-color-secondary);
+    background: var(--bg-color-secondary);
     width: 30%;
+    position: relative;
+    z-index: 1;
+    overflow: hidden;
 }
+
+.cloud-background {
+    position: absolute;
+    left: 0;
+    opacity: 0.1;
+    top: 17%;
+    width: 100%;
+    z-index: 0;
+}
+
+.nav-container {
+    padding-top: 5%;
+    padding-left: 30px;
+    padding-right: 30px;
+    margin-bottom: 30%;
+}
+
+.search-btn {
+    padding: 15px 30px;
+    background-color: var(--btn-primary);
+    border: none;
+    font-weight: 500;
+    color: #ffffff;
+}
+
+ .weather-icon  {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: 1;
+} 
+
+.weather-icon img {
+    margin: 0 auto;
+    display: block;
+}
+
 
 .right-container{
     width: 70%;
