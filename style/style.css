@@ -130,7 +130,17 @@ body {
     padding-top: 2%;
 }
 .date {
-    margin-bottom: 50px;
+    margin-bottom: 2%;
+}
+
+.location-city {
+    display: flex;
+    align-items: center;
+}
+
+.location-city img {
+    width: 1rem;
+    margin-right: 10px;
 }
 
 /* Degree converter buttons */
