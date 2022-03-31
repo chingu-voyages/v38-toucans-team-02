@@ -66,6 +66,9 @@ body {
 }
 
 .nav-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
     padding-top: 5%;
     padding-left: 30px;
     padding-right: 30px;
@@ -78,6 +81,19 @@ body {
     border: none;
     font-weight: 500;
     color: #ffffff;
+}
+
+.location-btn {
+    background-color: var(--btn-primary);
+    border: none;
+    overflow: hidden;
+    border-radius: 50%;
+    /* text-align: center; */
+    padding: 9px 12px;
+}
+
+.location-btn img {
+    margin-top: 2px;
 }
 
  .mid-column  {
