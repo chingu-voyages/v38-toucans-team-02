@@ -82,21 +82,25 @@ body {
 
  .mid-column  {
     display: flex;
+    height: 85vh;
     align-items: center;
-    justify-content: center;
+    /* justify-content: space-between; */
     flex-direction: column;
     z-index: 1;
-    /* margin: 0 auto; */
+    /* padding-left: auto;
+    padding-right: auto; */
 } 
 
-.weather-icon img {
+.weather-icon{
     /* margin: 0 auto; */
     display: block;
+    margin-bottom: 7%;
 }
 
 .weather-reading {
     display: flex;
     align-items: center;
+    margin-bottom: 9%;
 }
 
 .location-weather {
@@ -111,6 +115,12 @@ body {
     margin-top: 5rem;
 }
 
+.weather-description {
+    font-size: 2rem;
+    font-weight: 500;
+    color: var(--main-font-color);
+    margin-bottom: 9%;
+}
 
 .right-container{
     width: 70%;
@@ -118,6 +128,9 @@ body {
     padding-left: 10%;
     padding-right: 10%;
     padding-top: 2%;
+}
+.date {
+    margin-bottom: 50px;
 }
 
 /* Degree converter buttons */
